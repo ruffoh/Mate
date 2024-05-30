@@ -32,3 +32,7 @@ Agenda 2030 per lo Sviluppo Sostenibile - Obiettivo 4: Istruzione di qualità
 Questo progetto ha permesso di approfondire il tema dell'abbandono scolastico,
 evidenziando la necessità di interventi mirati per garantire a tutti i giovani l'opportunità di completare il proprio percorso educativo.
 Le proposte avanzate sono un contributo concreto per promuovere un'istruzione più inclusiva ed equa, in linea con gli obiettivi dell'Agenda 2030.
+
+**MESSAGGIO:**
+
+**"Lo studio è un diritto fondamentale e la chiave per il futuro: promuoviamo un’istruzione inclusiva ed equa per tutti gli studenti, per costruire una società migliore"**
