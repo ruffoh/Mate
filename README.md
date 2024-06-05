@@ -9,7 +9,7 @@ Questo progetto mira a sensibilizzare sul fenomeno dell'abbandono scolastico, an
 Il lavoro è stato svolto in diverse fasi:
 
  ### Ricerca delle informazioni:
-Abbiamo consultato il Report ISTAT sui livelli di istruzione del 2021 per raccogliere dati sugli Early Leavers from Education and Training (ELET) in Italia e in altri paesi europei. Particolare attenzione è stata posta ai grafici della pagina 4 (confronto tra paesi) e della pagina 5 (fattori che favoriscono l'abbandono precoce).
+Abbiamo consultato il Report ISTAT sui livelli di istruzione del 2021 per raccogliere dati sugli Early Leavers from Education and Training (ELET) in Italia e in altri paesi europei. Particolare attenzione è stata posta ai grafici della pagina 4 (confronto tra paesi) e della pagina 7 (fattori che favoriscono l'abbandono precoce).
 
  ### Analisi dei dati:
  I dati raccolti sono stati analizzati per comprendere le cause principali dell'abbandono scolastico,
