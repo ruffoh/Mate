@@ -37,3 +37,4 @@ Le proposte avanzate sono un contributo concreto per promuovere un'istruzione pi
 
 
 **"Lo studio è un diritto fondamentale e la chiave per il futuro: promuoviamo un’istruzione inclusiva ed equa per tutti gli studenti, per costruire una società migliore"**
+https://www.istat.it/it/files/2022/10/Livelli-di-istruzione-e-ritorni-occupazionali-anno-2021.pdf
